@@ -1,44 +1,41 @@
-<!--
-  GitHub profile README — shown at https://github.com/mattkanwisher
-  Repo must be named exactly: mattkanwisher/mattkanwisher
--->
+# Hi, I'm Matthew Campbell 👋
 
-# Matthew Campbell
+**Builder · reverse engineer · conference speaker · Bangkok**
 
-### Builder · reverse engineer · conference speaker · Bangkok
+I work at the messy edges of software and hardware: **distributed Go**, **firmware reverse engineering**, and **open robotics**.
 
-I ship systems at the messy edges: **distributed Go**, **hardware reverse engineering**, and **open robotics**.  
-Currently building **[TensorFleet](https://tensorfleet.net)** — open software for drone fleets.
-
-**Site:** [hyperworks.nu](https://hyperworks.nu) · **X:** [@kanwisher](https://twitter.com/kanwisher) · **Email:** hyper@hyperworks.nu
+🚀 Currently building **[TensorFleet](https://tensorfleet.net)** — open software for drone fleets  
+🌐 Personal site: **[hyperworks.nu](https://hyperworks.nu)**  
+🐦 X/Twitter: **[@kanwisher](https://twitter.com/kanwisher)**  
+✉️ hyper@hyperworks.nu
 
 ---
 
-### Now
+## What I'm doing now
 
 | | |
-|---|---|
+|:--|:--|
 | 🚁 **TensorFleet** | Open robotics / drone software, tooling & education |
-| 🔌 **Hardware RE** | Taking apart sealed gadgets, firmware, and light guns for fun & docs |
-| ✍️ **Writing** | Technical blog on [hyperworks.nu/blog](https://hyperworks.nu/blog/) |
+| 🔌 **Hardware RE** | Sealed gadgets, light guns, cart dumpers, firmware |
+| ✍️ **Writing** | [Blog on hyperworks.nu](https://hyperworks.nu/blog/) |
 
-### Before that
+### Previously
 
 DigitalOcean (microservices, Prometheus-scale monitoring) · **Loom Network / CryptoZombies** (Techstars) · Bloomberg · Thomson Reuters · Gucci · Cartoon Network · founder of Errplane & Langfight
 
 ---
 
-### Featured writing
+## Featured posts
 
-- **[Taking apart the G'AIM'E light gun](https://hyperworks.nu/blog/gaime-lightgun-reverse-engineering/)** — Allwinner console, hardcoded AES, Namco System 22 core, gun is a full Linux + NPU  
-- **[OSCR cart reader → macOS + Android](https://hyperworks.nu/blog/oscr-cartreader-macos-android/)** — dump carts over USB, CRC-verified, open in RetroArch  
+- **[Taking apart the G'AIM'E light gun](https://hyperworks.nu/blog/gaime-lightgun-reverse-engineering/)** — Allwinner console, hardcoded AES key, licensed Namco System 22 core; the gun is its own Linux box with an NPU  
+- **[OSCR cart reader → macOS + Android](https://hyperworks.nu/blog/oscr-cartreader-macos-android/)** — dump cartridges over USB, CRC-verify, open in RetroArch  
 
-### Talks (with video)
+## Conference talks
 
-Conference talks on Go, schedulers, Prometheus, blockchain — archive at **[hyperworks.nu/talks](https://hyperworks.nu/talks/)**
+Archive (with video): **[hyperworks.nu/talks](https://hyperworks.nu/talks/)**
 
-| Year | Talk | Event |
-|------|------|-------|
+| Year | Talk | Where |
+|-----:|------|-------|
 | 2018 | Practical Plasma: Gaming | Devcon 4 |
 | 2018 | Blockchain Apps in Go | GopherCon UK |
 | 2018 | Build your own distributed database | GopherCon Singapore |
@@ -50,37 +47,27 @@ Conference talks on Go, schedulers, Prometheus, blockchain — archive at **[hyp
 
 ---
 
-### Stack I reach for
+## Stack
 
 ```text
 Go · Python · Android · Swift · Linux / Android embedded
-Allwinner · FEL/FES · UART · HID · USB gadgets
-Prometheus · Kafka · Cassandra · Kubernetes · Docker
-Reverse engineering · firmware · game carts · robotics
+Allwinner · FEL/FES · UART · HID · USB
+Prometheus · Kafka · Cassandra · Kubernetes
+Reverse engineering · firmware · robotics
 ```
 
-### On GitHub
+## Repos worth a look
 
-- [mattkanwisher/gaime_mods](https://github.com/mattkanwisher/gaime_mods) — G'AIM'E light gun RE (firmware, FEL/FES, root shell)  
-- [TensorFleet/cartreader](https://github.com/TensorFleet/cartreader) — OSCR cart dumper + macOS/Android companions  
-- [microservices-book-code](https://github.com/mattkanwisher/microservices-book-code) — *Microservices in Go* companion code  
+| Repo | What |
+|------|------|
+| [gaime_mods](https://github.com/mattkanwisher/gaime_mods) | G'AIM'E light gun RE — firmware crypto, FEL/FES, root shell |
+| [TensorFleet/cartreader](https://github.com/TensorFleet/cartreader) | OSCR dumper + native macOS & Android companions |
+| [microservices-book-code](https://github.com/mattkanwisher/microservices-book-code) | Companion code for *Microservices in Go* |
 
 ---
 
-<p align="left">
-  <a href="https://hyperworks.nu"><img src="https://img.shields.io/badge/site-hyperworks.nu-6ee7b7?style=for-the-badge&labelColor=0b0d10" alt="hyperworks.nu"></a>
-  <a href="https://twitter.com/kanwisher"><img src="https://img.shields.io/badge/X-@kanwisher-1d9bf0?style=for-the-badge&labelColor=0b0d10" alt="@kanwisher"></a>
-  <a href="https://tensorfleet.net"><img src="https://img.shields.io/badge/TensorFleet-open%20robotics-34d399?style=for-the-badge&labelColor=0b0d10" alt="TensorFleet"></a>
-</p>
+[![hyperworks.nu](https://img.shields.io/badge/site-hyperworks.nu-6ee7b7?style=for-the-badge&labelColor=0b0d10)](https://hyperworks.nu)
+[![@kanwisher](https://img.shields.io/badge/X-@kanwisher-1d9bf0?style=for-the-badge&labelColor=0b0d10)](https://twitter.com/kanwisher)
+[![TensorFleet](https://img.shields.io/badge/TensorFleet-open%20robotics-34d399?style=for-the-badge&labelColor=0b0d10)](https://tensorfleet.net)
 
-<details>
-<summary><strong>Quick links</strong></summary>
-
-- Blog: https://hyperworks.nu/blog/  
-- Talks: https://hyperworks.nu/talks/  
-- Work: https://hyperworks.nu/work/  
-- LinkedIn: https://www.linkedin.com/in/mattcampbell777/  
-
-</details>
-
-*"Every sealed appliance is a README waiting to be written."*
+*Every sealed appliance is a README waiting to be written.*
